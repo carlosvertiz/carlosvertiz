@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I provide programing solutions and tools to face differents situations. Also, I obtain, analyse, clean and work with data in order to obtain useful insights
+
+#### Where to find me
+
+  - [Linkedin](https://www.linkedin.com/in/carlosvertiz/)
